@@ -1,6 +1,6 @@
 [user]
-	name = César Alberca
-	email = cesalberca@gmail.com
+	name = Santiago Martinez
+	email = santiagomartinezlt@gmail.com
 [alias]
   c = commit -m
   ch = checkout
@@ -11,11 +11,11 @@
 [url "https://github.com/"]
     insteadOf = gh:
 [core]
-	excludesfile = /Users/cesaralberca/.gitignore_global
+	excludesfile = /home/santiago/.gitignore_global
 	autocrlf = input
 	ignoreCase = false
 [commit]
-	template = /Users/calberca/.stCommitMsg
+	template = /home/santiago/.stCommitMsg
 [branch "master"]
 	remote = origin
 	merge = refs/heads/master
